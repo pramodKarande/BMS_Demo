@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="124714" started-at="2019-02-23T10:32:31Z" finished-at="2019-02-23T10:34:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="124714" started-at="2019-02-23T10:32:31Z" finished-at="2019-02-23T10:34:35Z">
+      <class name="com.bms.demo.ThroughMovieListing">
+        <test-method status="PASS" signature="driverInitialization()[pri:0, instance:com.bms.demo.ThroughMovieListing@2a5ca609]" name="driverInitialization" is-config="true" duration-ms="49490" started-at="2019-02-23T16:02:31Z" finished-at="2019-02-23T16:03:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialization -->
+        <test-method status="PASS" signature="test01LandingPage()[pri:0, instance:com.bms.demo.ThroughMovieListing@2a5ca609]" name="test01LandingPage" duration-ms="11863" started-at="2019-02-23T16:03:20Z" finished-at="2019-02-23T16:03:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01LandingPage -->
+        <test-method status="PASS" signature="test02MoviesPage()[pri:0, instance:com.bms.demo.ThroughMovieListing@2a5ca609]" name="test02MoviesPage" duration-ms="3034" started-at="2019-02-23T16:03:32Z" finished-at="2019-02-23T16:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02MoviesPage -->
+        <test-method status="PASS" signature="test03BookTicketPage()[pri:0, instance:com.bms.demo.ThroughMovieListing@2a5ca609]" name="test03BookTicketPage" duration-ms="23755" started-at="2019-02-23T16:03:35Z" finished-at="2019-02-23T16:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03BookTicketPage -->
+        <test-method status="PASS" signature="test04SelectShowPage()[pri:0, instance:com.bms.demo.ThroughMovieListing@2a5ca609]" name="test04SelectShowPage" duration-ms="9036" started-at="2019-02-23T16:03:59Z" finished-at="2019-02-23T16:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04SelectShowPage -->
+        <test-method status="PASS" signature="test05SelectSeatPage()[pri:0, instance:com.bms.demo.ThroughMovieListing@2a5ca609]" name="test05SelectSeatPage" duration-ms="27160" started-at="2019-02-23T16:04:08Z" finished-at="2019-02-23T16:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05SelectSeatPage -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.bms.demo.ThroughMovieListing@2a5ca609]" name="closeDriver" is-config="true" duration-ms="345" started-at="2019-02-23T16:04:35Z" finished-at="2019-02-23T16:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.bms.demo.ThroughMovieListing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
